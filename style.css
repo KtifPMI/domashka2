@@ -35,12 +35,12 @@ footer{
       padding-top: 25px;
   }
   footer a{
-      color: #f7f7f7;
+      color: #87CEEB;
       font-size: 14px;
       margin-left: 10px;
   }
   footer nav a:hover{
-      border-bottom: 1px solid #f7f7f7;
+      border-bottom: 1px solid #87CEEB;
   }
   footer p{
       color: #87CEEB;
@@ -64,7 +64,7 @@ footer{
     border-radius: 50%;
 }
 .topnav{
-      background-color: #e9e6e6;
+      background-color: #8A2BE2;
       font-size: 50px;
       margin-top: 1px;
   }
